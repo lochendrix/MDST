@@ -1,4 +1,4 @@
 # MDST - F22
-Lochlan Hendrix /n
+Lochlan Hendrix \n
 Project: Projecting Major League Success Using Minor League Stats
 
